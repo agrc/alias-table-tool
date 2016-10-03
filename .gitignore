@@ -1,6 +1,7 @@
 #Project specific
 data/**
 *.lock
+CreateAliasTableTool.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
